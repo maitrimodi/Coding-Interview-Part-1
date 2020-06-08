@@ -1,0 +1,36 @@
+.main-container{
+    display: flex;
+}
+.container{
+    height: 550px;
+    width: 350px;
+    border: 2px solid black;
+    margin-right: 50px;
+}
+
+.image{
+    height: 185px;
+    width: 195px;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin-top: 35px;
+    margin-left: 84px;
+}
+
+.role{
+    display: inline-block;
+    padding: 5px;
+    margin: 2px;
+}
+
+.name{
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.crown{
+    height:30px;
+    width:30px;
+    float: right;
+}
